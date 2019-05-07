@@ -1,0 +1,3 @@
+john.doe@example.com 1234
+mary.smith@example.com 12345
+edward.snowden@example.com 123456
